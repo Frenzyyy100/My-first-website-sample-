@@ -60,7 +60,7 @@ nav a.active {
   border-bottom: 3px solid #000;
 }
 
-.center-image {
+#banner {
   display: block;
   margin: 20px auto;
   max-width: 75%;
